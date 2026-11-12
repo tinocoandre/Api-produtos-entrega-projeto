@@ -1,0 +1,72 @@
+2026-11-10 20:16:24.531065-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-10 20:16:55.856838-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-10 20:17:12.600759-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-10 20:17:57.870105-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-10 21:12:36.387388-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-12 11:05:12.560426-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-12 12:30:06.171469-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-12 12:30:43.074485-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-12 12:33:30.308640-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-12 12:33:38.676659-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-12 12:45:18.146433-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
+2026-11-12 12:47:23.321684-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ALTER TABLE produtos\000aADD COLUMN IF NOT EXISTS quantidade_estoque\000aINT [*]NOT DEFAULT 0\000a"; SQL statement:
+ALTER TABLE produtos
+ADD COLUMN IF NOT EXISTS quantidade_estoque
+INT NOT DEFAULT 0
+ [42000-232]
